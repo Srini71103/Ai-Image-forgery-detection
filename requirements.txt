@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart
+tensorflow-cpu
+pillow
+python-dotenv
+huggingface-hub
+google-generativeai
+numpy
+h5py
